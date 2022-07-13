@@ -1,5 +1,12 @@
 [
     {
+       "version": "1.0.0",
+       "url": "https://autojoomer.github.io/autojoomer-app/apks/AutoJoomer-1.0.0.apk",
+       "releaseNotes": "AutoJoomer 1.0.0",
+	 "releaseDate": "2022-07-13T18:00:00Z",
+       "sha512": "e2314f1c2df3c756655ccbb0f4616e435bda0aa48b4644ac0fd17fb38daf246cd183bfad5b59cf87fd19ace20344efb01abfad6b32d7a646dcf937c18ac2a455"
+    },
+    {
        "version": "0.4.0",
        "url": "https://autojoomer.github.io/autojoomer-app/apks/AutoJoomer-0-4-0.apk",
        "releaseNotes": "AutoJoomer beta build 0.4.0",
