@@ -1,5 +1,11 @@
 [
    {
+      "version": "1.2.2",
+      "url": "https://autojoomer.github.io/autojoomer-app/apks/AutoJoomer-1.2.2.apk",
+      "releaseNotes": "AutoJoomer 1.2.2",
+      "releaseDate": "2022-11-27T17:00:00Z"
+   },
+   {
       "version": "1.2.1",
       "url": "https://autojoomer.github.io/autojoomer-app/apks/AutoJoomer-1.2.1.apk",
       "releaseNotes": "AutoJoomer 1.2.1",
